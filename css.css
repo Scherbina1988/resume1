@@ -1,0 +1,46 @@
+*{
+   margin: 0px;
+   padding: 0px;
+}
+
+body{
+   background: rgb(194, 194, 196);
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   line-height: 20px;
+   width: 400px;
+   margin: auto;
+}
+
+.top {
+   border: 2px solid rgb(161, 161, 163) ;
+   margin: 10px;
+   
+}
+
+
+
+
+.contacs {
+   border: 2px solid rgb(161, 161, 163)  ;
+   margin: 10px;
+   
+}
+
+.Education {
+   border: 2px solid rgb(161, 161, 163) ;
+   margin: 10px;
+  
+  }
+  
+.experience {
+   border: 2px solid rgb(161, 161, 163) ;
+   margin: 10px;
+}
+
+.skills {
+   border: 2px solid rgb(161, 161, 163) ;
+   margin: 10px;
+}
+
+
+
